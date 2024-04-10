@@ -1,0 +1,28 @@
+{
+    "assignment": [
+        {
+            "name": "Finish Project",
+            "complete": false,
+            "id": 1,
+            "tag": "Cs"
+        },
+        {
+            "name": "Read chapter 4",
+            "complete": false,
+            "id": 2,
+            "tag": "Science"
+        },   
+        {
+            "name": "Finish Vue",
+            "complete": false,
+            "id": 3,
+            "tag": "Cs"
+        },   
+        {
+            "name": "Finish first 5 sections",
+            "complete": true,
+            "id": 4,
+            "tag": "Cs"
+        }   
+    ]
+}
